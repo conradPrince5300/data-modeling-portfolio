@@ -1,0 +1,4 @@
+payment_id,order_id,payment_date,payment_method,amount
+1,101,2024-10-02,Credit Card,999.99
+2,102,2024-10-03,PayPal,1399.0
+3,103,2024-10-04,Credit Card,199.99
